@@ -1,0 +1,16 @@
+[15:37:34] [main/ERROR]: Can't find the resource index file: C:\Users\Stijn Ringeling\.gradle\caches\minecraft\assets\virtual\{ASSET_INDEX}\indexes\{ASSET_INDEX}.json
+[15:37:35] [main/INFO]: Setting user: ForgeDevName
+[15:37:41] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:38:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[15:38:25] [Sound Library Loader/INFO]: Sound engine started
+[15:38:26] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:38:27] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:38:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[15:38:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:38:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:38:30] [Sound Library Loader/INFO]: Sound engine started
+[15:38:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[15:38:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[15:38:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[15:38:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[15:38:37] [Client thread/INFO]: Stopping!
